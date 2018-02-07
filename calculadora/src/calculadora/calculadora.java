@@ -2,7 +2,7 @@ package calculadora;
 
 import java.util.Scanner;
 
-public class calculadora {
+public class calculadora { //trabajo de jose ramon 
 
     static Scanner reader = new Scanner(System.in);
 
